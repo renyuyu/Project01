@@ -1,0 +1,10 @@
+
+G
+java:S1068	"%Remove this unused "a" private field.(âî¨Õûÿÿÿÿ8¨‘â³“.
+D
+java:S1481"(Remove this unused "arg" local variable.(÷şI8¨‘â³“.
+{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âî¨Õûÿÿÿÿ8¨‘â³“.
+E
+java:S1481"(Remove this unused "arg" local variable.(ƒ–äØ8¨‘â³“.
+E	java:S108")Either remove or fill this block of code.(ƒ–äØ8¨‘â³“.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦“ßÿÿÿÿÿ8ÎÈ¤²“.
